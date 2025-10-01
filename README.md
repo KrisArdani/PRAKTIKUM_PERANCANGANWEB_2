@@ -1,2 +1,3 @@
 # PRAKTIKUM_PERANCANGANWEB_2
-Heh
+Kumpulan tugas praktikum yang saya kerjakan pada mata kuliah PRAKTIKUM PERANCANGAN WEB 2
+
